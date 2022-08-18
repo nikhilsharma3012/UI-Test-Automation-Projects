@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import pagebase.BasePage;
 
 /**
- * Created by Jyoti 17/09/2019
+ * Created by Nikhil Sharma 17/09/2019
  */
 
 public class OpenChatWindow extends BasePage
