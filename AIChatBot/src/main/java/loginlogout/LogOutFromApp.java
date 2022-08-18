@@ -8,7 +8,7 @@ import org.openqa.selenium.support.FindBy;
 import pagebase.BasePage;
 
 /**
- * Created by Jyoti 15/09/2019
+ * Created by Nikhil Sharma 15/09/2019
  */
 
 public class LogOutFromApp extends BasePage
