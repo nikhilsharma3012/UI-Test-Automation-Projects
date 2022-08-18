@@ -9,7 +9,7 @@ import org.openqa.selenium.support.FindBy;
 import pagebase.BasePage;
 
 /**
- * created by Jyoti 30/09/2019
+ * created by Nikhil Sharma 30/09/2019
  */
 
 public class BrandsDrinkHome extends BasePage
